@@ -1,0 +1,24 @@
+leaders:
+  - name: Ahmed Shatnawi
+    email: ahmed.shatnawi@owasp.org
+  - name: Mohammad Hujooj
+    email: mohammad.hujooj@owasp.org
+  - name: Ahmad AlFallah
+    email: ahmad.alFallah@owasp.org
+location:
+  country: Saudi Arabia
+  country_code: SA
+  region: Tabuk Region
+  city: Tabuk
+  latitude: 26.7879324
+  longitude: 38.9605169
+name: OWASP Fahd Bin Sultan University Student Chapter
+repositories:
+  - name: www-chapter-fahd-bin-sultan-university
+    url: https://github.com/OWASP/www-chapter-fahd-bin-sultan-university
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-fahd-bin-sultan-university
